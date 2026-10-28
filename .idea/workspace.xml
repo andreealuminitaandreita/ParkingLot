@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="311909dd-f626-4143-9311-7a9e1e6b9913" name="Changes" comment="Created a Cars servlet and page">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parking/parkinglot/entities/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/parking/parkinglot/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="311909dd-f626-4143-9311-7a9e1e6b9913" name="Changes" comment="Created the entities" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -274,7 +268,7 @@
       <workItem from="1792247803481" duration="2762000" />
       <workItem from="1792571558768" duration="4547000" />
       <workItem from="1793181091720" duration="424000" />
-      <workItem from="1793181545942" duration="1038000" />
+      <workItem from="1793181545942" duration="1341000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -316,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792575919655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Created the entities">
+      <option name="closed" value="true" />
+      <created>1793182857545</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1793182857545</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +329,8 @@
     <MESSAGE value="added a page template tag and created an about" />
     <MESSAGE value="Part 2: added a menu and a footer" />
     <MESSAGE value="Created a Cars servlet and page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a Cars servlet and page" />
+    <MESSAGE value="Created the entities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the entities" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
